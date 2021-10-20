@@ -3,7 +3,7 @@ import React from "react";
 import { Image, Text, View } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 
-export default function App({ navigation }) {
+export default function Login(params) {
   const [weatherData, setWeatherData] = useState();
 
   async function getWeather() {
