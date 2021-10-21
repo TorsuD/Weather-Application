@@ -37,6 +37,9 @@ export default function Login(params) {
     { weather: "broken clouds", img: require("../assets/light-rain.png") },
     { weather: "few clouds", img: require("../assets/sun-cloud.png") },
     { weather: "clear sky", img: require("../assets/sun.png") },
+    { weather: "light rain", img: require("../assets/rain.png") },
+    { weather: "light rain", img: require("../assets/rain.png") },
+    { weather: "scattered clouds", img: require("../assets/moon-cloud.png") },
   ];
 
   const cities = ["Accra", "Kumasi", "London", "Florida", "Abidjan"];
