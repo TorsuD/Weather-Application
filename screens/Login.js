@@ -41,12 +41,19 @@ export default function Login(params) {
     { weather: "light rain", img: require("../assets/rain.png") },
     { weather: "scattered clouds", img: require("../assets/moon-cloud.png") },
     { weather: "haze", img: require("../assets/haze.png") },
+    {
+      weather: "light intensity drizzle",
+      img: require("../assets/light-drizzle.png"),
+    },
   ];
 
   const cities = [
     "Accra",
-    "Tokyo",
     "London",
+    "Peru",
+    "China",
+    "Casablanca",
+    "Tokyo",
     "Florida",
     "Tunisia",
     "Miami",
@@ -54,6 +61,12 @@ export default function Login(params) {
     "Cairo",
     "Dubai",
     "Paris",
+    "Manchester",
+    "Liverpool",
+    "Moscow",
+    "Barcelona",
+    "Madrid",
+    "Rome",
   ];
 
   function FTC(temp) {
