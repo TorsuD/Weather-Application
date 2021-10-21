@@ -18,7 +18,7 @@ export default function Login(params) {
   const [weatherData, setWeatherData] = useState();
   StatusBar.setBarStyle("light-content");
 
-  async function getWeather(city = "London") {
+  async function getWeather(city = "Accra") {
     fetch(
       `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=6deb1458f7ffc3bf8a19e74b3abf89d4`
     )
@@ -45,10 +45,15 @@ export default function Login(params) {
       weather: "light intensity drizzle",
       img: require("../assets/light-drizzle.png"),
     },
+    {
+      weather: "thunderstorm with rain",
+      img: require("../assets/thunderstorm.png"),
+    },
   ];
 
   const cities = [
     "Accra",
+    "Toronto",
     "London",
     "Peru",
     "China",
