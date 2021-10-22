@@ -56,6 +56,7 @@ export default function Login(params) {
     "Toronto",
     "London",
     "Cuba",
+    "Delhi",
     "Peru",
     "Beijing",
     "Casablanca",
