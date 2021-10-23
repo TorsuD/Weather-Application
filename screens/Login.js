@@ -76,6 +76,7 @@ export default function Login(params) {
     "Madrid",
     "Rome",
     "Osaka",
+    "Johannesburg",
   ];
 
   function FTC(temp) {
