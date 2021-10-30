@@ -60,6 +60,7 @@ export default function Login(params) {
     "Rio",
     "Berlin",
     "Mumbai",
+    "Kumasi",
     "Peru",
     "Beijing",
     "Casablanca",
