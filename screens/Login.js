@@ -53,6 +53,9 @@ export default function Login(params) {
 
   const cities = [
     "Accra",
+    "Athens",
+    "Barcelona",
+    "Dakar",
     "Toronto",
     "London",
     "Berlin",
@@ -86,9 +89,6 @@ export default function Login(params) {
     "Birmingham",
     "Mexico City",
     "Moscow",
-    "Barcelona",
-    "Dakar",
-    "Athens",
     "Madrid",
     "Rome",
     "Osaka",
