@@ -58,6 +58,7 @@ export default function Login(params) {
     "Casablanca",
     "California",
     "Cairo",
+    "Naples",
     "Dakar",
     "Toronto",
     "London",
