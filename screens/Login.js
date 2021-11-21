@@ -87,6 +87,7 @@ export default function Login(params) {
     "Paris",
     "Texas",
     "Sydney",
+    "Sao Paulo",
     "Manchester",
     "Birmingham",
     "Mexico City",
