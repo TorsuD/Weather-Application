@@ -94,7 +94,8 @@ export default function Login(params) {
     "Madrid",
     "Rome",
     "Osaka",
-    "Leicester"
+    "Leicester",
+    "Lome"
    
   ];
 
