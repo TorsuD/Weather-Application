@@ -73,7 +73,7 @@ export default function Login(params) {
     "Lagos",
     "Malaysia",
     "Malé",
-  
+    "Kumasi",
     "Peru",
     "Beijing",
     "Tokyo",
